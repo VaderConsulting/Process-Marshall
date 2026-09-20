@@ -1,6 +1,6 @@
 # Process Marshall
 
-VB6 working copy of `Process Marshall` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Marshall. Output: `Marshall.exe`.
+VB6 Process Marshall (`Marshall.exe` / `Marshall.vbp`): starts/stops/pauses a pool of child processes and TCP clients (ADO + Win32 process handles), with `/START` and `/LOG:n` command-line options. Open `Marshall.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
